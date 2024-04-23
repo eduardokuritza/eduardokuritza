@@ -1,7 +1,7 @@
-
+<img src="https://github.com/ecsistem/ecsistem/blob/main/lineBar.png" width="100%" height="8px"/>
 <h1 align="center">Hello, kids! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
 
-### About Me: <br>
+### About Me: <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 - 👻 I'm Eduardo Kuritza <br>
 - 💻 Front-End developer  <br>
 - 🧪 Currently learning UI/UX <br>
@@ -18,3 +18,5 @@
   <img align="center" alt="Icon-Figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" />
   <img align="center" alt="Icon-Linux" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" />
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
