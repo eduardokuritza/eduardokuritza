@@ -1,5 +1,5 @@
 <img src="https://github.com/ecsistem/ecsistem/blob/main/lineBar.png" width="100%" height="8px"/>
-<h1 align="center">Hello, kids! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
+<h1 align="center">Hello, kids! <a href="https://www.linkedin.com/in/eduardokuritza/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
 
 ### About Me: <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 - 👻 I'm Eduardo Kuritza <br>
