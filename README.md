@@ -17,6 +17,7 @@
   <img align="center" alt="Icon-SASS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Icon-Figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" />
   <img align="center" alt="Icon-Linux" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" />
+  <img align="center" alt="Icon-Git" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
