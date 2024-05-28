@@ -4,7 +4,7 @@
 ### About Me: <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 - 👻 I'm Eduardo Kuritza <br>
 - 💻 Front-End developer  <br>
-- 🧪 Currently learning UI/UX <br>
+- 🧪 Currently learning AI <br>
 - 🚀 Let's chat!
   
 <h2 align="center"> Technologies I work with </h2>
