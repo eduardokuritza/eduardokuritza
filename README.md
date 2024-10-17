@@ -27,4 +27,8 @@
   <a href="https://wa.me/5541992291319"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </div>
 
+<div align="center">
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eduardokuritza)
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
