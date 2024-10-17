@@ -3,8 +3,7 @@
 ### About Me: <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 - 👻 I'm Eduardo Kuritza <br>
 - 💻 Front-End developer  <br>
-- 🧪 Currently learning AI <br>
-- 🚀 Let's chat!
+- 🤖 Currently learning AI <br>
   
 <h2 align="center"> Technologies I work with </h2>
 <div style="display: inline_block" align="center">
@@ -20,15 +19,11 @@
   <img align="center" alt="Icon-Git" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
 </div>
 
-<h2 align="center"> Let's chat! </h2>
+<h2 align="center"> Let's chat! 🚀 </h2>
 <div style="display: inline_block" align="center">
   <a href="https://www.linkedin.com/in/eduardokuritza/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
   <a href="mailto:eduardo.kuritza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
   <a href="https://wa.me/5541992291319"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-</div>
-
-<div align="center">
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eduardokuritza)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
