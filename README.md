@@ -1,10 +1,10 @@
 <h1 align="center">Hello, kids! <a href="https://www.linkedin.com/in/eduardokuritza/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
 
 ### About Me: <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
-- 👻 I'm Eduardo Kuritza <br>
-- 💻 Front-End developer (React, Next.js & Sass)<br>
-- 📱 Mobile developer (React Native & Expo)
-- 🤖 Currently learning AI <br>
+- 👻 I'm Eduardo Kuritza; <br>
+- 💻 Front-End developer (React, Next.js & Sass);<br>
+- 📱 Mobile developer (React Native & Expo);<br>
+- 🤖 Currently learning AI.
 
 
 <h2 align="center">Technologies I work with</h2>
