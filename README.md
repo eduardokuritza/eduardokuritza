@@ -17,6 +17,8 @@
   <img align="center" alt="Icon-NextJs" height="50" width="50" src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" />
   <img align="center" alt="Icon-SASS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Icon-Tailwind" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" />
+</div>
+<div align="center">
   <img align="center" alt="Icon-Redux" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg" />
   <img align="center" alt="Icon-Jest" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jest/jest-plain.svg" />
   <img align="center" alt="Icon-Figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" />
