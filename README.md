@@ -21,8 +21,8 @@
 <div align="center">
   <img align="center" alt="Icon-Redux" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg" />
   <img align="center" alt="Icon-Jest" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jest/jest-plain.svg" />
-  <img align="center" alt="Icon-Figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" />
   <img align="center" alt="Icon-Git" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
+   <img align="center" alt="Icon-Figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" />
 </div>
 
 <h2 align="center"> Let's chat! 🚀 </h2>
